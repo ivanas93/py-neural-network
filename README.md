@@ -26,4 +26,5 @@ Graph showing the decrease in the cost function using the gradient descent algor
 ![img.png](doc/descent-cost-function.png)
 
 Divide points into two factions. 
+
 ![img.png](doc/result_plot.png)
