@@ -13,7 +13,7 @@
 
 * Sigmoid function for the nonlinearity of the model
 
-![img.png](doc/sigmoide funcion.png)
+![img.png](doc/sigmoide_funcion.png)
 
 * Gradiant descent for reduce cost function
 
